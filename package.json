@@ -7,7 +7,7 @@
     "start": "nodemon server.js",
     "debug": "ndb server.js"
   },
-  "author": "Jonas Schmedtmann",
+  "author": "Harsh Parashar",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^7.0.0",
